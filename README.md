@@ -1,0 +1,1 @@
+The client's online presence needed a fresh and modern new look on a tight budget and what better way to create a new look than to code a responsive HTML5 site from scratch using the Bootstrap CSS framework?
